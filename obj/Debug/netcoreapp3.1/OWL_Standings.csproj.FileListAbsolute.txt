@@ -1,0 +1,14 @@
+C:\Users\asus\OneDrive\Pulpit\Overwatch\OWL_Standings\bin\Debug\netcoreapp3.1\OWL_Standings.exe
+C:\Users\asus\OneDrive\Pulpit\Overwatch\OWL_Standings\bin\Debug\netcoreapp3.1\OWL_Standings.deps.json
+C:\Users\asus\OneDrive\Pulpit\Overwatch\OWL_Standings\bin\Debug\netcoreapp3.1\OWL_Standings.runtimeconfig.json
+C:\Users\asus\OneDrive\Pulpit\Overwatch\OWL_Standings\bin\Debug\netcoreapp3.1\OWL_Standings.runtimeconfig.dev.json
+C:\Users\asus\OneDrive\Pulpit\Overwatch\OWL_Standings\bin\Debug\netcoreapp3.1\OWL_Standings.dll
+C:\Users\asus\OneDrive\Pulpit\Overwatch\OWL_Standings\bin\Debug\netcoreapp3.1\OWL_Standings.pdb
+C:\Users\asus\OneDrive\Pulpit\Overwatch\OWL_Standings\obj\Debug\netcoreapp3.1\OWL_Standings.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Pulpit\Overwatch\OWL_Standings\obj\Debug\netcoreapp3.1\OWL_Standings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Pulpit\Overwatch\OWL_Standings\obj\Debug\netcoreapp3.1\OWL_Standings.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Pulpit\Overwatch\OWL_Standings\obj\Debug\netcoreapp3.1\OWL_Standings.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Pulpit\Overwatch\OWL_Standings\obj\Debug\netcoreapp3.1\OWL_Standings.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Pulpit\Overwatch\OWL_Standings\obj\Debug\netcoreapp3.1\OWL_Standings.dll
+C:\Users\asus\OneDrive\Pulpit\Overwatch\OWL_Standings\obj\Debug\netcoreapp3.1\OWL_Standings.pdb
+C:\Users\asus\OneDrive\Pulpit\Overwatch\OWL_Standings\obj\Debug\netcoreapp3.1\OWL_Standings.genruntimeconfig.cache

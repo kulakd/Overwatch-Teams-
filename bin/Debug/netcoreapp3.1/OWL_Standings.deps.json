@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OWL_Standings/1.0.0": {
+        "runtime": {
+          "OWL_Standings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OWL_Standings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
