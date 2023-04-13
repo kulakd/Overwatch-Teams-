@@ -1,2 +1,2 @@
 # Overwatch-Teams-
- Mathematically correct positioning of teams in the Overwatch league
+ Mathematically correct order of teams in the Overwatch league
